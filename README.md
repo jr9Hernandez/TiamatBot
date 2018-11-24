@@ -11,7 +11,7 @@ Levi Lelis - Universidade Federal de Viçosa - levilelis@gmail.com.
 
 Claudio Toledo - Universidade de São Paulo - claudio@icmc.usp.br
 
-References (in bibtex):
+How to cite it (in bibtex):
 
 @inproceedings{MarinoMoraesToledoLelis,
   author    = {Mari{\~{n}}o, Julian R. H. and Moraes, Rubens O. and Toledo, Claudio and Lelis, Levi H. S.},
