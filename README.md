@@ -17,7 +17,7 @@ How to cite it (in bibtex):
   author    = {Mari{\~{n}}o, Julian R. H. and Moraes, Rubens O. and Toledo, Claudio and Lelis, Levi H. S.},
   title     = {Evolving Action Abstractionsfor Real-Time Planning in Extensive-Form Games},
   booktitle = {Proceedings of the {AAAI} Conference on Artificial Intelligence},
-  year      = {2019},
+  year      = {2019}
 }
 
 @inproceedings{lelis2017,
