@@ -10,3 +10,21 @@ Rubens de Oliveira Moraes Filho - Universidade Federal de Viçosa - rubensolv@gm
 Levi Lelis - Universidade Federal de Viçosa - levilelis@gmail.com.
 
 Claudio Toledo - Universidade de São Paulo - claudio@icmc.usp.br
+
+References (in bibtex):
+
+@inproceedings{MarinoMoraesToledoLelis,
+  author    = {Mari{\~{n}}o, Julian R. H. and Moraes, Rubens O. and Toledo, Claudio and Lelis, Levi H. S.},
+  title     = {Evolving Action Abstractionsfor Real-Time Planning in Extensive-Form Games},
+  booktitle = {Proceedings of the {AAAI} Conference on Artificial Intelligence},
+  year      = {2019},
+}
+
+@inproceedings{lelis2017,
+  author    = {L. H. S. Lelis},
+  title     = {Stratified Strategy Selection for Unit Control in Real-Time Strategy Games},
+  booktitle = {International Joint Conference on Artificial Intelligence},
+  year      = {2017},
+  pages = {3735--3741}
+}
+
