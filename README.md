@@ -14,7 +14,7 @@ Claudio Toledo - Universidade de São Paulo - claudio@icmc.usp.br
 How to cite it (in bibtex):
 
 @inproceedings{MarinoMoraesToledoLelis,
-  author    = {Mari{\~{n}}o, Julian R. H. and Moraes, Rubens O. and Toledo, Claudio and Lelis, Levi H. S.},
+  author    = {Julian R. H. {Mari\~no} and Rubens O. Moraes and Claudio F. M. Toledo and Levi H. S. Lelis},
   title     = {Evolving Action Abstractionsfor Real-Time Planning in Extensive-Form Games},
   booktitle = {Proceedings of the {AAAI} Conference on Artificial Intelligence},
   year      = {2019}
